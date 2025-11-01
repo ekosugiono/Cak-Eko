@@ -1,0 +1,5 @@
+{
+  "name": "AI Personality & Career Analysis",
+  "description": "An AI-powered assistant that provides a warm, narrative-style personality and career analysis based on user's name and date of birth.",
+  "requestFramePermissions": []
+}
